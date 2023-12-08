@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/com/bengkel/booking/services/PrintService.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/services/Validation.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/services/MenuService.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/MemberCustomer.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/AppTest.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/ItemService.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/services/BengkelService.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/repositories/CustomerRepository.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/App.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/Customer.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/Vehicle.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/services/PrintService.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/BookingOrder.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/interfaces/IPayment.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/repositories/ItemServiceRepository.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/Car.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/models/Motorcyle.java</file>
+            <file>file:/D:/Digital%20Bootcamp%2079/Kelas%20Teknologi/booking-bengkel-rindu/src/com/bengkel/booking/interfaces/IBengkelPayment.java</file>
+        </group>
+    </open-files>
+</project-private>
